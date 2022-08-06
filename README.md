@@ -23,3 +23,4 @@ MiniLM: https://aka.ms/minilm
 Mobilebert: https://github.com/google-research/google-research/tree/master/mobilebert  
 Colbert: https://github.com/stanford-futuredata/ColBERT  
 poly-encoder: https://github.com/sfzhou5678/PolyEncoder  
+PAQ：https:// github.com/facebookresearch/PAQ
